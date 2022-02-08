@@ -1,0 +1,30 @@
+body{
+  background-color:grey;
+   
+}
+header{
+  background-color:lightgreen;          color:darkgreen; 
+  text-align:center; 
+  padding-top:30px;
+  height:100px;
+}
+main{
+  background-color:green; 
+  color:white; 
+  padding:20px 200px 20px 200px;
+  
+}
+footer{
+  background-color:darkgreen; 
+  color: lightgreen; 
+  height:50px;"
+}
+h1{
+  text-align:center;
+}
+p{
+  border:solid 2px;
+  padding:10px;
+  margin:10px;
+  border-radius:10px;
+}
